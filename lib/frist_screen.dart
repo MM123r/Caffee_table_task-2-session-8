@@ -50,6 +50,7 @@ class FristScreen extends StatelessWidget{
                        child: Container(
                         width: double.infinity,
                         margin: EdgeInsets.symmetric(vertical: 10),
+                         padding: EdgeInsets.symmetric(horizontal: 10),
                         decoration: BoxDecoration(
                           color: Colors.white,
                           borderRadius: BorderRadius.circular(10),
@@ -115,6 +116,7 @@ class FristScreen extends StatelessWidget{
                        child: Container(
                         width: double.infinity,
                         margin: EdgeInsets.symmetric(vertical: 10),
+                         padding: EdgeInsets.symmetric(horizontal: 10),
                         decoration: BoxDecoration(
                           color: Colors.white,
                           borderRadius: BorderRadius.circular(10),
@@ -180,6 +182,7 @@ class FristScreen extends StatelessWidget{
                        child: Container(
                         width: double.infinity,
                         margin: EdgeInsets.symmetric(vertical: 10),
+                         padding: EdgeInsets.symmetric(horizontal: 10),
                         decoration: BoxDecoration(
                           color: Colors.white,
                           borderRadius: BorderRadius.circular(10),
